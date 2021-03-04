@@ -1,1 +1,1 @@
-# Embedded_os
+# Embedded OS 수업 내용
